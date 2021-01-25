@@ -25,7 +25,7 @@ The spreadsheet contains a prefilled example to be followed by the user.
 Each sheet represents a story of a user.
 
 * [__List of Remixed Videos__]: A list of all the videos that have been remixed in the micro-stories.
-For each video we have been extracted the available metadata from the OpenImages platform, such as: the keywords describing the video, the length of the video, people or locations mentioned in the video, among others. 
+For each video we have been extracted the available metadata from the [OpenImages](https://www.openbeelden.nl) platform, such as: the keywords describing the video, the length of the video, people or locations mentioned in the video, among others. 
 
-* [__Machine Processed GIFs - Clarifai__]: Contains the visual tags and concepts of each sequence (keyframe or video fragment) that was used for generating a GIF. We used the FFmpeg tool to extract the video stills (keyframes) and video fragments composing each GIF.
-The tags and concepts have been identified by running the online tool Clarifai that performs both image and video concept recognition.
+* [__Machine Processed GIFs - Clarifai__]: Contains the visual tags and concepts of each sequence (keyframe or video fragment) that was used for generating a GIF. We used the [FFmpeg](https://ffmpeg.org) tool to extract the video stills (keyframes) and video fragments composing each GIF.
+The tags and concepts have been identified by running the online tool [Clarifai](https://www.clarifai.com) that performs both image and video concept recognition.
