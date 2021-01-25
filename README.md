@@ -37,4 +37,4 @@ The repository contains the following documents:
 * [__Analysis of GIFs__](https://github.com/oana-inel/Remixing-Audio-Visual-Archives/blob/main/Combined-GIFs-info-Student-Machine.xlsx): 
   * Contains the final analysis document, which combines the manual and atomatic processing of the keyframes and video fragments composing each GIF.
   
-* [__List of Sequences Composing the GIFs](https://github.com/oana-inel/Remixing-Audio-Visual-Archives/tree/main/Keyframes_Sequences)
+* [__List of Sequences Composing the GIFs__](https://github.com/oana-inel/Remixing-Audio-Visual-Archives/tree/main/Keyframes_Sequences)
