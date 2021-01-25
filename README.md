@@ -33,3 +33,8 @@ The repository contains the following documents:
 * [__Machine Processed GIFs - Clarifai__](https://github.com/oana-inel/Remixing-Audio-Visual-Archives/blob/main/Machine%20Processed%20GIFs%20-%20Clarifai.xlsx): 
   * Contains the visual tags and concepts of each sequence (keyframe or video fragment) that was used for generating a GIF. We used the [FFmpeg](https://ffmpeg.org) tool to extract the video stills (keyframes) and video fragments composing each GIF.
   * The tags and concepts have been identified by running the online tool [Clarifai](https://www.clarifai.com) that performs both image and video concept recognition.
+  
+* [__Analysis of GIFs__](https://github.com/oana-inel/Remixing-Audio-Visual-Archives/blob/main/Combined-GIFs-info-Student-Machine.xlsx): 
+  * Contains the final analysis document, which combines the manual and atomatic processing of the keyframes and video fragments composing each GIF.
+  
+* [__List of Sequences Composing the GIFs](https://github.com/oana-inel/Remixing-Audio-Visual-Archives/tree/main/Keyframes_Sequences)
