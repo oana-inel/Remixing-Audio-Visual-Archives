@@ -18,14 +18,18 @@ If you find the paper and the data useful in your research, please consider citi
 
 The repository contains the following documents:
 
-* [__Visualizing Amsterdam's Past - Example of Log File__]: Contains the guidelines that the users had to follow when watching and remixing the video footage.
-The spreadsheet contains a prefilled example to be followed by the user. 
+* [__Visualizing Amsterdam's Past - Example of Log File__](https://github.com/oana-inel/Remixing-Audio-Visual-Archives/blob/main/Visualizing%20Amsterdam_s%20Past%20-%20Example%20of%20Log%20File.xlsx): 
+  * Contains the guidelines that the users had to follow when watching and remixing the video footage.
+  * The spreadsheet contains a prefilled example to be followed by the user. 
 
-* [__Experimental Results - Users Log Files__]: Contains all the log files from all the users that participated in the study, filled in using the guidelines mentioned for the previous document.
-Each sheet represents a story of a user.
+* [__Experimental Results - Users Log Files__](https://github.com/oana-inel/Remixing-Audio-Visual-Archives/blob/main/Experimental%20Results%20-%20Users%20Log%20Files.xlsx): 
+  * Contains all the log files from all the users that participated in the study, filled in using the guidelines mentioned for the previous document.
+  * Each sheet represents a story of a user.
 
-* [__List of Remixed Videos__]: A list of all the videos that have been remixed in the micro-stories.
-For each video we have been extracted the available metadata from the [OpenImages](https://www.openbeelden.nl) platform, such as: the keywords describing the video, the length of the video, people or locations mentioned in the video, among others. 
+* [__List of Remixed Videos__](https://github.com/oana-inel/Remixing-Audio-Visual-Archives/blob/main/List%20of%20Remixed%20Videos.xlsx): 
+  * A list of all the videos that have been remixed in the micro-stories.
+  * For each video we have extracted the available metadata from the [OpenImages](https://www.openbeelden.nl) platform, such as: the keywords describing the video, the length of the video, people or locations mentioned in the video, among others. 
 
-* [__Machine Processed GIFs - Clarifai__]: Contains the visual tags and concepts of each sequence (keyframe or video fragment) that was used for generating a GIF. We used the [FFmpeg](https://ffmpeg.org) tool to extract the video stills (keyframes) and video fragments composing each GIF.
-The tags and concepts have been identified by running the online tool [Clarifai](https://www.clarifai.com) that performs both image and video concept recognition.
+* [__Machine Processed GIFs - Clarifai__](https://github.com/oana-inel/Remixing-Audio-Visual-Archives/blob/main/Machine%20Processed%20GIFs%20-%20Clarifai.xlsx): 
+  * Contains the visual tags and concepts of each sequence (keyframe or video fragment) that was used for generating a GIF. We used the [FFmpeg](https://ffmpeg.org) tool to extract the video stills (keyframes) and video fragments composing each GIF.
+  * The tags and concepts have been identified by running the online tool [Clarifai](https://www.clarifai.com) that performs both image and video concept recognition.
